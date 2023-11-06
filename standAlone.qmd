@@ -15,3 +15,4 @@ df <- data.frame(player = c('AJ', 'Bob', 'Chad', 'Dan', 'Eric', 'Frank'),
 #view data frame
 knitr::kable(df[1:6, ], )
 ```
+
